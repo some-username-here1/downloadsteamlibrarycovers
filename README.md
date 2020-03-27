@@ -10,4 +10,4 @@ Simply download the bat (or sh, if you're on Linux/OSX) and python files into a 
 ## Can I contribute to it?
 Of course! Any work that would help in making this python-powered script better is always useful!
 ## Credits
-Thanks to Havatra on StackExchange for providing a base to the code which was provided in answer; from [url=https://gaming.stackexchange.com/a/359643/216848]here[/url]
+Thanks to Havatra on StackExchange for providing a base to the code which was provided in answer; from [here](https://gaming.stackexchange.com/a/359643/216848).

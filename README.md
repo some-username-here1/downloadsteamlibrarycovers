@@ -12,4 +12,4 @@ Of course! Any work that would help in making this python-powered script better 
 ## Credits
 Thanks to Havatra on StackExchange for providing a base to the code which was provided in answer, from [here](https://gaming.stackexchange.com/a/359643/216848), and not minding their code being re-worked when PM'd about it.
 ## Better version of this program
-With having a conversation and asking for help from a friend which originally was for asking help on coding, he ended up making this program a lot better, which can be found [here](https://github.com/depthbomb/AppImageDownloader)!
+With having a conversation and asking for help from a friend which originally was for asking help on coding, he ended up making this program a lot better and rewritten in C#, which can be found [here](https://github.com/depthbomb/AppImageDownloader)!
